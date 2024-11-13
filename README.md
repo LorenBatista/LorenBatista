@@ -1,0 +1,2 @@
+- 👋 Oii, sou @LorenBatista
+- 👀 Estou interessada em migrar de área e começar a trabalhar com programação, gostaria de uma oportunidade.
