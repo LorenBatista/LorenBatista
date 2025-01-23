@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="150" src="https://c.tenor.com/vsQmbET1T84AAAAC/tenor.gif"  />
+<img align="right" height="120" src="https://c.tenor.com/vsQmbET1T84AAAAC/tenor.gif"  />
 
 ###
 
@@ -21,6 +21,8 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+###
 
 ###
 
