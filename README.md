@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Ponta Grossa - PR - Brasil.<br><br>- 🔭 Atualmente trabalho como Analista de RH, porém, estou iniciando a faculdade de ADS <br>- 📚 Tenho conhecimento básico em HTML, CSS, PHP e Python <br>- ⚡ No meu tempo livre gosto de jogar com minhas amigas e assistir filmes, séries e animes. </p>
+<p align="left">Ponta Grossa - PR - Brasil.<br><br>- 🔭 Atualmente trabalho como Analista de RH, porém, estou iniciando a faculdade de ADS <br>- 📚 Tenho conhecimento básico em HTML, CSS, PHP e Python <br>- ⚡ No meu tempo livre gosto de jogar com minhas amigas, fazer lives, assistir filmes, séries e animes. </p>
 
 ###
 
