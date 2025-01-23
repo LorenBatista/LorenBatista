@@ -8,18 +8,6 @@
   <a href="https://www.linkedin.com/in/loren-batista-b16bb3145/?trk=opento_sprofile_topcard" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@LorenBatist" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/lorenbatista" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://www.instagram.com/loren_batist/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/loren_batist" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
@@ -35,11 +23,11 @@
 ###
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
-<p align="left"> Sou formada em Ciências Contábeis, tenho experiência com gestão de empresa e recursos humanos. Participei de um curso, sobre PHP, ontem tive o meu primeiro contato com a programação e me apaixonei, porém, por motivos de tempo não consegui finalizar. Agora estou iniciando a faculdade de Análise e Desenvolvimento de Sistemas, espero assim conseguir migrar para a carreira de tecnologia.</p>
+<p align="left"> Participei de um curso, sobre PHP, ontem tive o meu primeiro contato com a programação e me apaixonei, porém, por motivos de tempo não consegui finalizar. Agora estou iniciando a faculdade de Análise e Desenvolvimento de Sistemas, espero assim conseguir migrar para a carreira de tecnologia.</p>
 
 ###
 
-<br>- 📚 Tenho conhecimento básico em HTML, CSS, PHP e Python <br>- ⚡ No meu tempo livre gosto de jogar, assistir filmes, séries e animes. </p>
+<br>- 📚 Tenho conhecimento básico em HTML, CSS, PHP e Python </p>
 
 ###
 
