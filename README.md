@@ -30,8 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LorenBatista&theme=blueberry&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" height="220" alt="streak graph"  />
-  <img src="https://streak-stats.demolab.com?user=LorenBatista&theme=blueberry&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak graph" /></a>
+  <img src="https://streak-stats.demolab.com?user=lorenbatista&theme=blueberry&border_radius=4.2" height="220" alt="GitHub Streak"  />
 </div>
 
 ###
