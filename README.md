@@ -35,11 +35,11 @@
 ###
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
-<p align="left"> Sou formada em Ciências Contábeis, desde 2021, tenho experiência com gestão de empresa e recursos humano. Em um emprego anterior, participei de um curso da própria empresa, sobre PHP, ontem tive o meu primeiro contato com a programação e me apaixonei, porém, por motivos de tempo não consegui finalizar. Agora estou iniciando a faculdade de Análise e Desenvolvimento de Sistemas, espero assim conseguir migrar para a carreira de tecnologia.</p>
+<p align="left"> Sou formada em Ciências Contábeis, tenho experiência com gestão de empresa e recursos humanos. Participei de um curso, sobre PHP, ontem tive o meu primeiro contato com a programação e me apaixonei, porém, por motivos de tempo não consegui finalizar. Agora estou iniciando a faculdade de Análise e Desenvolvimento de Sistemas, espero assim conseguir migrar para a carreira de tecnologia.</p>
 
 ###
 
-<p align="left">Ponta Grossa - PR - Brasil.<br><br>- 🔭 Atualmente trabalho como Analista de RH, porém, estou iniciando a faculdade de ADS <br>- 📚 Tenho conhecimento básico em HTML, CSS, PHP e Python <br>- ⚡ No meu tempo livre gosto de jogar, fazer lives, assistir filmes, séries e animes. </p>
+<br>- 📚 Tenho conhecimento básico em HTML, CSS, PHP e Python <br>- ⚡ No meu tempo livre gosto de jogar, assistir filmes, séries e animes. </p>
 
 ###
 
