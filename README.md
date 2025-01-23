@@ -30,8 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LorenBatista&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LorenBatista&theme=blueberry&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=LorenBatista&theme=blueberry&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" height="220" alt="streak graph"  />
 </div>
 
 ###
