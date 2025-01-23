@@ -31,6 +31,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LorenBatista&theme=blueberry&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LorenBatista&theme=blueberry&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak graph" /></a>
 </div>
 
 ###
