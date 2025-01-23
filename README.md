@@ -1,6 +1,19 @@
 <div align="center">
-  <img src="https://img.shields.io/twitter/follow/loren_batist" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC9DTJhSZYW0pybfDgzj0Dig" height="25" alt="youtube logo" />
+  <a href="https://www.linkedin.com/in/loren-batista-b16bb3145/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/loren_batist" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/loren_batist" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@LorenBatist" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/lorenbatista" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="45" height="30" alt="twitch logo"  />
+  </a>
 </div>
 
 ###
@@ -23,7 +36,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lorenbatista&theme=blueberry&border_radius=4.2" height="220" alt="GitHub Streak"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LorenBatista&radius=12&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LorenBatista&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=prussian&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
+
+
