@@ -17,7 +17,7 @@
 ###
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
-<p align="left"> Participei de um curso, sobre PHP, ontem tive o meu primeiro contato com a programação e me apaixonei, porém, por motivos de tempo, não consegui finalizar. Agora estou iniciando a faculdade de Análise e Desenvolvimento de Sistemas, espero assim conseguir migrar para a carreira de tecnologia.</p>
+<p align="left"> Descobri minha paixão pela programação em um curso de PHP e agora me dedico à graduação em Análise e Desenvolvimento de Sistemas para consolidar minha transição de carreira para a área de tecnologia.</p>
 
 ###
 
