@@ -17,11 +17,10 @@
 ###
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
-<p align="left"> Descobri minha paixão pela programação em um curso de PHP e agora me dedico à graduação em Análise e Desenvolvimento de Sistemas para consolidar minha transição de carreira para a área de tecnologia.</p>
+<p align="left"> Descobri minha paixão pela programação em um curso de PHP, o qual não consegui concluir por questões de tempo, agora me dedico à graduação em Análise e Desenvolvimento de Sistemas para consolidar minha transição de carreira para a área de tecnologia.</p>
 
 ###
 
-<br>
 <h3 align="left">📚 Tenho conhecimento básico em:</h3></p>
 
 <div align="left">
