@@ -17,7 +17,7 @@
 ###
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
-<p align="left"> Descobri minha paixão pela programação em um curso de PHP, o qual não consegui concluir por questões de tempo, agora me dedico à graduação em Análise e Desenvolvimento de Sistemas para consolidar minha transição de carreira para a área de tecnologia.</p>
+<p align="left"> Descobri minha paixão pela programação em um curso de PHP, o qual não consegui concluir por questões de tempo, estou iniciando atualmente a faculdade de Análise e Desenvolvimento de Sistemas, determinada a aprimorar minhas habilidades e fazer a transição para uma carreira na tecnologia, onde sei que posso fazer a diferença.</p>
 
 ###
 
